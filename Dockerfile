@@ -1,2 +1,2 @@
 FROM httpd
-COPY sample.txt /usr/local/apache/htdocs/
+COPY sample.txt /usr/local/apache2/htdocs/
